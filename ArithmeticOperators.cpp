@@ -20,11 +20,11 @@ using namespace std;
 
 int main() {
 
-  //Initializing and declairing variables
+	//Initializing and declairing variables
 	double n1 = 0;
 	double n2 = 0;
 
-  //Accepting user input
+	//Accepting user input
 	cout << "Enter a real number n1: ";
 	cin >> n1;
 	cout << "Enter a real number n2: ";
