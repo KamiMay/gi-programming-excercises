@@ -1,5 +1,5 @@
 /*
-Cube
+Cube:
 Write a program that asks the user to input a real number n.
 Compute n^3 and output the result. Program output should be 
 formatted as follows:
