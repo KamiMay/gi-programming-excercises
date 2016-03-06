@@ -1,2 +1,2 @@
-# learning-c++
-Learning C++ for game dev, all code not structured properly. 
+# Game Institute C++ Programming 
+My solutions to the excercises for the Game Institute C++ programming couse.
